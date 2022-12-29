@@ -32,3 +32,8 @@ html {
   flex-direction: column;
   flex-wrap: wrap;
 }
+
+nav[class*="toolbar"]{
+  height: 80px;
+  width: 100%;
+}
